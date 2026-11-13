@@ -3,11 +3,7 @@ Footprinting & Network Scanning Phases
 W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
 
 Field	Detail
-Pentester Name (Cybersecurity Professional)	Lukmanul Hakeem <img width="613" height="237" alt="wafwoof " src="https://github.com/user-attachments/assets/48134bd6-0c2c-4a1e-af10-dbc85724ec61" />
-<img width="625" height="205" alt="pmwk 2sst web test " src="https://github.com/user-attachments/assets/0d26e1f6-1d16-4f7e-b3d0-73e22431260a" />
-<img width="715" height="557" alt="dns network" src="https://github.com/user-attachments/assets/a7356ee9-69bb-41ec-b4cf-bf2556dc91ad" />
-<img width="617" height="508" alt="pmw2 sst" src="https://github.com/user-attachments/assets/69e4cc23-de1b-4121-ad6d-3586d18d60f7" />
-
+Pentester Name (Cybersecurity Professional)	Lukmanul Hakeem
 Program/Batch	B084-Networkwalks
 Date	13 November 2026
 Modules completed	W2-PM1 (Multiple Kali Tools)
